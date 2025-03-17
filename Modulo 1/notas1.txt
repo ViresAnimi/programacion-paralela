@@ -1,0 +1,14 @@
+Información sobre el curso
+
+Cache, vectorización (SIMD) - Código secuencial
+OpenMP (Paralelizacion multihilo)
+MPI (Paralelización con múltiples procesadores)
+
+Introducción
+
+Numpy en el fondo es que está ejecutando algo en C, igual que el intérprete de python.
+El uso de C en programación paralela para simulaciones numéricas.
+Comunicación entre distintos trabajadores que están actuando en paralelo para resolver el problema. 
+Comunicación entre elementos del cálculo
+* Instalar compilador para programar en C usando Windows.
+NLHPC Leftrau y Guacolda Supercomputadores más grandes de Chile. Postulaciones. Para esto analizar un código paralelizado para saber si es eficiente.
